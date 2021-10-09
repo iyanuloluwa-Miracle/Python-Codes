@@ -24,3 +24,4 @@ def print_even(arr:list):
     else:
         print(is_list)
 
+
